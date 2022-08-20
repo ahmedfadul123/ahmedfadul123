@@ -24,7 +24,7 @@
 ---
 
 ### :woman_technologist: About Me :
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines= I`m+Ahmed+Fadul;Android+Engineer+💬)]()
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I`m+Ahmed+Fadul;Android+Engineer+💬)]()
 
 
 Here are some ideas to get you started:
