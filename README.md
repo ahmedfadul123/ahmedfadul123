@@ -10,14 +10,14 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+
   
   <img src="https://komarev.com/ghpvc/?username=ahmedfadul123&style=flat-square&color=blue" alt=""/>
   <div>
     [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I`m+Ahmed+Fadul;Android+Engineer+💬)]()
  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+
   
     
 </div>
