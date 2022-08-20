@@ -21,7 +21,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ahmed+Fadul;Android+Engineer)](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ahmed+Fadul;Android+Engineer)](💬)
 
 
 
