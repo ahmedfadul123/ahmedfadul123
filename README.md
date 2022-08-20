@@ -68,10 +68,11 @@ I am Android Engineer Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedfadul123)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedfadul123&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfadul123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedfadul123)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
