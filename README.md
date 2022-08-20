@@ -23,8 +23,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ahmed+Fadul;Android+Engineer+💬)]()
 
-### :man_technologist: About Me :
+---
 
+### :woman_technologist: About Me :
 
 Here are some ideas to get you started:
 
