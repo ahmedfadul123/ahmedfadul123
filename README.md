@@ -20,7 +20,7 @@
     
 <center>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I`m+Ahmed+Fadul;Android+Engineer+💬)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I`m+Ahmed+Fadul;Android+Engineer)]()
   
   </center>
 
