@@ -14,7 +14,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=ahmedfadul123&style=flat-square&color=blue" alt=""/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey+there;I`m+Ahmed+Fadul+💬)]()
+  <h1> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey+there;I`m+Ahmed+Fadul+💬)]()
+    </h1>
 
   <h1>
   hey there
