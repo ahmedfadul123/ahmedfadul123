@@ -1,7 +1,5 @@
-### :hammer_and_wrench: Languages and Tools :
 
 ### Hi there 👋
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### :hammer_and_wrench: Languages and Tools :
+
