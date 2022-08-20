@@ -1,6 +1,7 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=ahmedfadul123)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div id="header" align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedfadul123)](https://github.com/ryo-ma/github-profile-trophy)
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-fadul1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
