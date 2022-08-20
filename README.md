@@ -24,7 +24,7 @@
 ---
 
 ### :woman_technologist: About Me :
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I`m+Ahmed+Fadul;Android+Engineer+💬)]()
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
 Here are some ideas to get you started:
