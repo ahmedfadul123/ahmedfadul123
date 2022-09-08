@@ -27,7 +27,8 @@
 
 
 
-### Analytical and detail oriented android app developer 
+### A passionate Android App developer from Sudan
+ 
 
 
 ---
