@@ -25,7 +25,7 @@
 
    </div>
 
----
+
 
 ### Analytical and detail oriented android app developer 
 
