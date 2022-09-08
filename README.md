@@ -35,12 +35,18 @@
 
 <div id="header" align="center">
      
-<center>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=++++I`m+Ahmed+Fadul;Android+Engineer+💬)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/ahmed-fadul1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
-  
-  </center>
+</div>
 
    </div>
 
